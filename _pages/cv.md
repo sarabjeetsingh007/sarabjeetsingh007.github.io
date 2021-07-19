@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Last updated: XX 2021]{XX-upload link for CV in Git} 
+[Last updated: 07-19-2021]{https://sarabjeetsingh007.github.io/files/CV_07-19-2021.pdf} 
