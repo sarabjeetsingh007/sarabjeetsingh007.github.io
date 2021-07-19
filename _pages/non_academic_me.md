@@ -27,6 +27,3 @@ Current/Past Projects
 - **XX**  
 Sarabjeet, Sumanth  
 Aug 2020 - Feb 2021
-
-Blogs
-======
