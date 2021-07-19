@@ -12,8 +12,8 @@ I am a third year PhD stuent at The University of Utah, working under the superv
 
 Recent News
 ======
-- **Nov 2020** Stated collaboration with [Prof. Elaine Shi](http://elaineshi.com/) and [Xiong Fan](https://leofanxiong.github.io/) on project *Acceleration of Post Quantum Cryptography*
-- **Oct 2020** Stated collaboration with [Siddhartha Chhabra \(Intel\)](https://www.linkedin.com/in/siddhartha-chhabra-a513a94/)
+- **Nov 2020** Stated collaboration with [Prof. Elaine Shi](http://elaineshi.com/)\(CMU\) and [Xiong Fan](https://leofanxiong.github.io/)\(Algorand\) on project *Acceleration of Post Quantum Cryptography*
+- **Oct 2020** Stated collaboration with [Siddhartha Chhabra](https://www.linkedin.com/in/siddhartha-chhabra-a513a94/)\(Intel\) on project *Efficient Memory Integrity Verification*
 - **Oct 2020** [CASA](https://www.sigarch.org/casa/), a student support group initiative for students (Founding member and Steering Committee), goes live!
 - **Aug 2019** Started PhD at the University of Utah
 - **Nov 2019** Presented work XX at ISPASS 2020
