@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Non-Academic Me"
+permalink: /life-as-sarab/
 author_profile: true
 ---
 
@@ -15,15 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Color code: <span style="color:orange">**Orange**</span>: journal, <span style="color:green">**Green**</span>: conference, <span style="color:purple">**Purple**</span>: workshop.
-- **ABCD**  
-<span style="text-decoration:underline">Sarbjeet</span>, Rajeev  
-<span style="color:orange">**ACM JETC 2019saa**</span>   
-\[Full Text\], \[Code\]  
-<span style="color:red">**PANE is open-source, available here!**</span>
-
-Current/Past Projects
+Cooking
 ======
-- **XX**  
-Sarabjeet, Sumanth  
-Aug 2020 - Feb 2021
+Once I started my Phd, I found myself spending more time in the kitchen, learning a lot from amazing YouTuber, bloggers, and my roommate. Below are some really delicious food pics that I managed to get before they got in my tummy. My personal YouTube recommendation for Indian recipes - [Ranveer Brar](https://www.youtube.com/c/ChefRanveer/about).
+
+Outdoors
+======
+Living in Utah is a perfect match if you love hiking. Here are some pictures that I took.
+
+Sports
+======
+Snowboarding, Boxing, Badminton, Hiking, Tennis
