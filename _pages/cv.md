@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+[Last updated: XX 2021]{XX-upload link for CV in Git} 
+
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
