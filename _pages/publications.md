@@ -15,4 +15,4 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Color code: Orange: journal, <span style="color:green">Green</span>: conference, Purple: workshop.
+Color code: <span style="color:orange">**Orange**</span>: journal, <span style="color:green">**Green**</span>: conference, <span style="color:purple">Purple</span>: workshop.
