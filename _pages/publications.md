@@ -16,7 +16,7 @@ author_profile: true
 {% endfor %}
 
 Color code: <span style="color:orange">**Orange**</span>: journal, <span style="color:green">**Green**</span>: conference, <span style="color:purple">**Purple**</span>: workshop.
-- **ABCD** ..
-<span style="text-decoration:underline">Sarbjeet</span>, Rajeev ..
-<span style="color:orange">**ACM JETC 2019**</span>
+- **ABCD** ..  
+<span style="text-decoration:underline">Sarbjeet</span>, Rajeev ..  
+<span style="color:orange">**ACM JETC 2019saa**</span>   
 <span style="color:orange">**Simulator code available!**</span>
