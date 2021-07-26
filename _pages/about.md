@@ -13,8 +13,8 @@ I am a third year PhD student at The University of Utah, working under the super
 Recent News
 ======
 - **Feb 2021** Blog post - [Post Quantum Cryptography](https://www.sigarch.org/post-quantum-cryptography/), SigArch Computer Architecture Today
-- **Nov 2020** Stated collaboration with [Prof. Elaine Shi](http://elaineshi.com/) \(CMU\) and [Xiong Fan](https://leofanxiong.github.io/) \(Algorand\) on project *Acceleration of Post Quantum Cryptography*
-- **Oct 2020** Stated collaboration with [Siddhartha Chhabra](https://www.linkedin.com/in/siddhartha-chhabra-a513a94/) \(Intel\) on project *Efficient Memory Integrity Verification*
+- **Nov 2020** Started collaboration with [Prof. Elaine Shi](http://elaineshi.com/) \(CMU\) and [Xiong Fan](https://leofanxiong.github.io/) \(Algorand\) on project *Acceleration of Post Quantum Cryptography*
+- **Oct 2020** Started collaboration with [Siddhartha Chhabra](https://www.linkedin.com/in/siddhartha-chhabra-a513a94/) \(Intel\) on project *Efficient Memory Integrity Verification*
 - **Oct 2020** [CASA](https://www.sigarch.org/casa/), a student support group initiative for students (Founding member and Steering Committee), goes live!
 - **Aug 2020** Teaching Mentor for [Fall 2020 CS/ECE 6810 Computer Architecture](https://www.cs.utah.edu/~rajeev/cs6810/) 
 - **May 2020** Joined AMD Reseach as Co-op.
