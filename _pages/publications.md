@@ -40,7 +40,7 @@ Current/Past Projects
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Rajeev Balasubramonian, Siddharth Chhabra (Intel)  
 Jan'21 - Present
 - **Packing and Dataflow for Homomorphic Encryption based Machine Learning Accelerator**  
-<span style="text-decoration:underline">Sarabjeet Singh</span>, Sumanth Gudaparthi, Xiong Fan (Algorand), Rajeev Balasubramonian, Elaine Shi (CMU)
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Sumanth Gudaparthi, Xiong Fan (Algorand), Rajeev Balasubramonian, Elaine Shi (CMU)  
 Aug'21 - Present
 - **Hardware-Software Co-design for accelerating Post Quantum Cryptography**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan (Algorand), Ananth Krishna, Anirban Nag (Uppsala University), 
