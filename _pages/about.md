@@ -12,6 +12,7 @@ I am a third year PhD student at The University of Utah, working under the super
 
 Recent News
 ======
+- **Oct 2021** Our paper "CANDLES: Channel-Aware Novel Dataflow-Microarchitecture Co-Design for Low Energy Sparse Neural Network Acceleration" is accepted, and will appear at HPCA 2022
 - **Feb 2021** Blog post - [Post Quantum Cryptography](https://www.sigarch.org/post-quantum-cryptography/), SigArch Computer Architecture Today
 - **Nov 2020** Started collaboration with [Prof. Elaine Shi](http://elaineshi.com/) \(CMU\) and [Xiong Fan](https://leofanxiong.github.io/) \(Algorand\) on project *Acceleration of Post Quantum Cryptography*
 - **Oct 2020** Started collaboration with [Siddhartha Chhabra](https://www.linkedin.com/in/siddhartha-chhabra-a513a94/) \(Intel\) on project *Efficient Memory Integrity Verification*
