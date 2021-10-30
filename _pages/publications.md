@@ -16,6 +16,9 @@ author_profile: true
 {% endfor %}
 
 Color code: <span style="color:orange">**Orange**</span>: journal, <span style="color:green">**Green**</span>: conference, <span style="color:purple">**Purple**</span>: workshop.
+- **CANDLES: Channel-Aware Novel Dataflow-Microarchitecture Co-Design for Low Energy Sparse Neural Network Acceleration**  
+Sumanth Gudaparthi, <span style="text-decoration:underline">Sarabjeet Singh</span>, Surya Narayanan, Rajeev Balasubramonian, Visvesh Sathe  
+to appear at <span style="color:green">**IEEE HPCA 2022**</span> 
 - **Efficacy of Statistical Sampling on Contemporary Workloads: The Case of SPEC CPU2017**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Manu Awasthi  
 <span style="color:green">**IEEE IISWC 2019**</span>   
@@ -36,13 +39,13 @@ Current/Past Projects
 - **Efficient Integrity Verification using Custom DIMM**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Rajeev Balasubramonian, Siddharth Chhabra (Intel)  
 Jan'21 - Present
+- **Packing and Dataflow for Homomorphic Encryption based Machine Learning Accelerator**  
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Sumanth Gudaparthi, Xiong Fan (Algorand), Rajeev Balasubramonian, Elaine Shi (CMU)
+Aug'21 - Present
 - **Hardware-Software Co-design for accelerating Post Quantum Cryptography**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan (Algorand), Ananth Krishna, Anirban Nag (Uppsala University), 
 Mahdi Bojnordi, Rajeev Balasubramonian, Elaine Shi (CMU)  
 Nov'20 - Present
-- **Low Energy Sparse Neural Network Acceleration**  
-Sumanth Gudaparthi, <span style="text-decoration:underline">Sarabjeet Singh</span>, Surya Narayanan, Rajeev Balasubramonian, Visvesh Sathe (UW)  
-Jan'21 - Present
 - **Efficient Metadata for Memory Protection**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Meysam Taassori, Rajeev Balasubramonian, Siddharth Chhabra (Intel)  
 Aug'20 - Present
