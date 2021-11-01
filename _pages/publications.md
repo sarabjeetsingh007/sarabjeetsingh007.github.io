@@ -19,6 +19,9 @@ Color code: <span style="color:orange">**Orange**</span>: journal, <span style="
 - **CANDLES: Channel-Aware Novel Dataflow-Microarchitecture Co-Design for Low Energy Sparse Neural Network Acceleration**  
 Sumanth Gudaparthi, <span style="text-decoration:underline">Sarabjeet Singh</span>, Surya Narayanan, Rajeev Balasubramonian, Visvesh Sathe  
 to appear at <span style="color:green">**IEEE HPCA 2022**</span> 
+- **HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy**  
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Neelam Surana, Pranjali Jain, Joycee Mekie, Manu Awasthi  
+\[[available on arxiv](https://arxiv.org/abs/2110.01208)\] 
 - **Efficacy of Statistical Sampling on Contemporary Workloads: The Case of SPEC CPU2017**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Manu Awasthi  
 <span style="color:green">**IEEE IISWC 2019**</span>   
@@ -49,9 +52,6 @@ Nov'20 - Present
 - **Efficient Metadata for Memory Protection**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Meysam Taassori, Rajeev Balasubramonian, Siddharth Chhabra (Intel)  
 Aug'20 - Present
-- **"SRAM-free" energy-efficient cache hierarchy**  
-<span style="text-decoration:underline">Sarabjeet Singh</span>, Neelam Surana, Pranjali Jain, Joycee Mekie, Manu Awasthi  
-Jan'19 - Nov'19
 - **AMBOP: Adaptive Multiple Best Offset Prefetcher**  
 Archit Checker, Arup Mondal, <span style="text-decoration:underline">Sarabjeet Singh</span>, Manu Awasthi  
 Mar'19 - Aug'19
