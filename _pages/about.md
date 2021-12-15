@@ -12,6 +12,7 @@ I am a third year PhD student at The University of Utah, working under the super
 
 Recent News
 ======
+- **Dec 2021** Our team has been selected as one of the finalists for [Samsung's Open Innovation Contest for AxDIMM Technology](https://www.samsung.com/semiconductor/newsroom/events/open-innovation-contest/#finalists).
 - **Oct 2021** Our paper "CANDLES: Channel-Aware Novel Dataflow-Microarchitecture Co-Design for Low Energy Sparse Neural Network Acceleration" is accepted, and will appear at HPCA 2022.
 - **Oct 2021** Our paper "[HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy](https://arxiv.org/abs/2110.01208)" is now available on arxiv.
 - **Feb 2021** Blog post - [Post Quantum Cryptography](https://www.sigarch.org/post-quantum-cryptography/), SigArch Computer Architecture Today

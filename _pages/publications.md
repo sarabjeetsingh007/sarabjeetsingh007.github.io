@@ -40,17 +40,20 @@ Sneha N. Ved, <span style="text-decoration:underline">Sarabjeet Singh</span>, Jo
 Current/Past Projects
 ======
 - **Efficient Integrity Verification using Custom DIMM**  
-<span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Rajeev Balasubramonian, Siddharth Chhabra (NVIDIA)  
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Rajeev Balasubramonian, Siddharth Chhabra (NVIDIA), Frank Mckeen (Intel)  
 Jan'21 - Present
 - **Packing and Dataflow for Homomorphic Encryption based Machine Learning Accelerator**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan (Algorand), Shreyas Singh, Sumanth Gudaparthi, Rajeev Balasubramonian, Elaine Shi (CMU)  
+Aug'21 - Present
+- **Loss-less FHE-based CNNs - performing non-linear layers on encrypted data**  
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Rajeev Balasubramonian  
 Aug'21 - Present
 - **Hardware-Software Co-design for accelerating Post Quantum Cryptography**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan (Algorand), Ananth Krishna, Lia Jin, Anirban Nag (Uppsala University), 
 Mahdi Bojnordi, Rajeev Balasubramonian, Elaine Shi (CMU)  
 Nov'20 - Present
-- **Secure AI using Samsung's AxDIMM**  
-<span style="text-decoration:underline">Sarabjeet Singh</span>, Rajeev Balasubramonian  
+- **Secure AI using Samsung's AxDIMM (One of the finalist for Samsung AxDIMM contest)**  
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Ananth Krishna, Shreyas Singh, Lin Jia, Rajeev Balasubramonian  
 Oct'21 - Present
 - **Efficient Metadata for Memory Protection**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Meysam Taassori, Rajeev Balasubramonian, Siddharth Chhabra (Intel)  
