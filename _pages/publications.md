@@ -16,9 +16,14 @@ author_profile: true
 {% endfor %}
 
 Color code: <span style="color:orange">**Orange**</span>: journal, <span style="color:green">**Green**</span>: conference, <span style="color:purple">**Purple**</span>: workshop.
+- **EPIC: Efficient Packing for Inference using Cheetah**  
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Rajeev Balasubramonian  
+<span style="color:purple">**CogArch 2022**</span>    
+\[[Full Text](https://sarabjeetsingh007.github.io/files/cogarch22.pdf)\]  
 - **CANDLES: Channel-Aware Novel Dataflow-Microarchitecture Co-Design for Low Energy Sparse Neural Network Acceleration**  
 Sumanth Gudaparthi, <span style="text-decoration:underline">Sarabjeet Singh</span>, Surya Narayanan, Rajeev Balasubramonian, Visvesh Sathe  
-to appear at <span style="color:green">**IEEE HPCA 2022**</span> 
+<span style="color:green">**IEEE HPCA 2022**</span>    
+\[[Full Text](https://sarabjeetsingh007.github.io/files/hpca22.pdf)\]  
 - **HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Neelam Surana, Pranjali Jain, Joycee Mekie, Manu Awasthi  
 \[[available on arxiv](https://arxiv.org/abs/2110.01208)\] 
