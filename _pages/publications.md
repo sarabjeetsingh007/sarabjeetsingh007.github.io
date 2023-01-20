@@ -16,6 +16,10 @@ author_profile: true
 {% endfor %}
 
 Color code: <span style="color:orange">**Orange**</span>: journal, <span style="color:green">**Green**</span>: conference, <span style="color:purple">**Purple**</span>: workshop.
+- **HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy**  
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Neelam Surana, Kailash Prasad, Pranjali Jain, Joycee Mekie, Manu Awasthi 
+<span style="color:orange">**ACM TACO 2022**</span> 
+\[[Full Text](https://sarabjeetsingh007.github.io/files/taco22.pdf)\]  
 - **EPIC: Efficient Packing for Inference using Cheetah**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Rajeev Balasubramonian  
 <span style="color:purple">**CogArch 2022**</span>    
@@ -24,9 +28,6 @@ Color code: <span style="color:orange">**Orange**</span>: journal, <span style="
 Sumanth Gudaparthi, <span style="text-decoration:underline">Sarabjeet Singh</span>, Surya Narayanan, Rajeev Balasubramonian, Visvesh Sathe  
 <span style="color:green">**IEEE HPCA 2022**</span>    
 \[[Full Text](https://sarabjeetsingh007.github.io/files/hpca22.pdf)\]  
-- **HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy**  
-<span style="text-decoration:underline">Sarabjeet Singh</span>, Neelam Surana, Pranjali Jain, Joycee Mekie, Manu Awasthi  
-\[[available on arxiv](https://arxiv.org/abs/2110.01208)\] 
 - **Efficacy of Statistical Sampling on Contemporary Workloads: The Case of SPEC CPU2017**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Manu Awasthi  
 <span style="color:green">**IEEE IISWC 2019**</span>   
@@ -44,22 +45,19 @@ Sneha N. Ved, <span style="text-decoration:underline">Sarabjeet Singh</span>, Jo
 
 Current/Past Projects
 ======
+- **Packing and Dataflow for Homomorphic Encryption based Machine Learning Accelerator**  
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Sumanth Gudaparthi (AMD), Xiong Fan (Rutgers University), Rajeev Balasubramonian, Elaine Shi (CMU)  
+Aug'21 - Present 
+- **XCRYPT: Accelerating Lattice Based Cryptography with Memristor Crossbar Arrays**  
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan (Rutgers University), Ananth Krishna, Lia Jin, Anirban Nag (Uppsala University), 
+Mahdi Bojnordi, Rajeev Balasubramonian, Elaine Shi (CMU)  
+Nov'20 - Present 
 - **Efficient Integrity Verification using Custom DIMM**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Rajeev Balasubramonian, Siddharth Chhabra (NVIDIA), Frank Mckeen (Intel)  
 Jan'21 - Present
-- **Packing and Dataflow for Homomorphic Encryption based Machine Learning Accelerator**  
-<span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan (Algorand), Shreyas Singh, Sumanth Gudaparthi, Rajeev Balasubramonian, Elaine Shi (CMU)  
-Aug'21 - Present
-- **Loss-less FHE-based CNNs - performing non-linear layers on encrypted data**  
-<span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Rajeev Balasubramonian  
-Aug'21 - Present
-- **Hardware-Software Co-design for accelerating Post Quantum Cryptography**  
-<span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan (Algorand), Ananth Krishna, Lia Jin, Anirban Nag (Uppsala University), 
-Mahdi Bojnordi, Rajeev Balasubramonian, Elaine Shi (CMU)  
-Nov'20 - Present
 - **Secure AI using Samsung's AxDIMM (One of the finalist for Samsung AxDIMM contest)**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Ananth Krishna, Shreyas Singh, Lin Jia, Rajeev Balasubramonian  
-Oct'21 - Present
+Oct'21 - Jun'22 
 - **Efficient Metadata for Memory Protection**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Meysam Taassori, Rajeev Balasubramonian, Siddharth Chhabra (Intel)  
 Aug'20 - Mar'21
