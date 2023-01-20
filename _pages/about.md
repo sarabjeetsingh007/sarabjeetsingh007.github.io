@@ -14,7 +14,7 @@ Recent News
 ======
 - **Nov 2022** "[HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy](https://sarabjeetsingh007.github.io/files/taco22.pdf)" published in ACM Transactions on Architecture and Code Optimization.
 - **May 2022** Joined NVIDIA Research as Co-op. Project: Homomorphic Encryption at Modern GPU Datacenter Scale. Manager: Steve Keckler
-- **Apr 2022** Our work on Homomorphic Encryption based CNN inference [EPIC: Efficient Packing for Inference using Cheetah](https://cogarchworkshop.org/assets/pdfs/3.pdf) appeared at the 6th Workshop on Cognitive Architectures, hosted in conjunction with HPCA 2022.
+- **Apr 2022** Our work on Homomorphic Encryption based CNN inference [EPIC: Efficient Packing for Inference using Cheetah](https://sarabjeetsingh007.github.io/files/cogarch22.pdf) appeared at the 6th Workshop on Cognitive Architectures, hosted in conjunction with HPCA 2022.
 - **Dec 2021** Our team has been selected as one of the finalists for [Samsung's Open Innovation Contest for AxDIMM Technology](https://www.samsung.com/semiconductor/newsroom/events/open-innovation-contest/#finalists).
 - **Oct 2021** Our paper "[CANDLES: Channel-Aware Novel Dataflow-Microarchitecture Co-Design for Low Energy Sparse Neural Network Acceleration](https://sarabjeetsingh007.github.io/files/hpca22.pdf)" appeared at HPCA 2022.
 - **Feb 2021** Blog post - [Post Quantum Cryptography](https://www.sigarch.org/post-quantum-cryptography/), SigArch Computer Architecture Today

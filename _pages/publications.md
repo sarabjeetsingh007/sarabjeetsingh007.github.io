@@ -16,9 +16,9 @@ author_profile: true
 {% endfor %}
 
 Color code: <span style="color:orange">**Orange**</span>: journal, <span style="color:green">**Green**</span>: conference, <span style="color:purple">**Purple**</span>: workshop.
-- **HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy**  
-<span style="text-decoration:underline">Sarabjeet Singh</span>, Neelam Surana, Kailash Prasad, Pranjali Jain, Joycee Mekie, Manu Awasthi 
-<span style="color:orange">**ACM TACO 2022**</span> 
+- **HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy**    
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Neelam Surana, Kailash Prasad, Pranjali Jain, Joycee Mekie, Manu Awasthi   
+<span style="color:orange">**ACM TACO 2022**</span>  
 \[[Full Text](https://sarabjeetsingh007.github.io/files/taco22.pdf)\]  
 - **EPIC: Efficient Packing for Inference using Cheetah**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Rajeev Balasubramonian  
