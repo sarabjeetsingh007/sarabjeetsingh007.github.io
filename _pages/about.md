@@ -12,6 +12,7 @@ I am a forth year PhD student at The University of Utah, working under the super
 
 Recent News
 ======
+- **Feb 2023** "[XCRYPT: Accelerating Lattice Based Cryptography with Memristor Crossbar Arrays](https://sarabjeetsingh007.github.io/files/micro23.pdf)" published in IEEE Micro.
 - **Nov 2022** "[HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy](https://sarabjeetsingh007.github.io/files/taco22.pdf)" published in ACM Transactions on Architecture and Code Optimization.
 - **May 2022** Joined NVIDIA Research as Co-op. Project: Homomorphic Encryption at Modern GPU Datacenter Scale. Manager: Steve Keckler
 - **Apr 2022** Our work on Homomorphic Encryption based CNN inference [EPIC: Efficient Packing for Inference using Cheetah](https://sarabjeetsingh007.github.io/files/cogarch22.pdf) appeared at the 6th Workshop on Cognitive Architectures, hosted in conjunction with HPCA 2022.

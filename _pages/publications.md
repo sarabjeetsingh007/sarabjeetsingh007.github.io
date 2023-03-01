@@ -16,6 +16,11 @@ author_profile: true
 {% endfor %}
 
 Color code: <span style="color:orange">**Orange**</span>: journal, <span style="color:green">**Green**</span>: conference, <span style="color:purple">**Purple**</span>: workshop.
+- **XCRYPT: Accelerating Lattice Based Cryptography with Memristor Crossbar Arrays**    
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan, Ananth Krishna, Lia Jin, Anirban Nag, 
+Mahdi Bojnordi, Rajeev Balasubramonian, Elaine Shi  
+<span style="color:orange">**IEEE Micro 2023**</span>  
+\[[Full Text](https://sarabjeetsingh007.github.io/files/micro23.pdf)\]  
 - **HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy**    
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Neelam Surana, Kailash Prasad, Pranjali Jain, Joycee Mekie, Manu Awasthi   
 <span style="color:orange">**ACM TACO 2022**</span>  
@@ -48,10 +53,6 @@ Current/Past Projects
 - **Packing and Dataflow for Homomorphic Encryption based Machine Learning Accelerator**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Sumanth Gudaparthi (AMD), Xiong Fan (Rutgers University), Rajeev Balasubramonian, Elaine Shi (CMU)  
 Aug'21 - Present 
-- **XCRYPT: Accelerating Lattice Based Cryptography with Memristor Crossbar Arrays**  
-<span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan (Rutgers University), Ananth Krishna, Lia Jin, Anirban Nag (Uppsala University), 
-Mahdi Bojnordi, Rajeev Balasubramonian, Elaine Shi (CMU)  
-Nov'20 - Present 
 - **Efficient Integrity Verification using Custom DIMM**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Rajeev Balasubramonian, Siddharth Chhabra (NVIDIA), Frank Mckeen (Intel)  
 Jan'21 - Present
