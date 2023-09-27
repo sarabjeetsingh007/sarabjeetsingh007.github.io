@@ -8,7 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a forth year PhD student at The University of Utah, working under the supervision of [Prof. Rajeev Balasubramonian](https://www.cs.utah.edu/~rajeev/) in the [Utah Arch Research Group](https://arch.cs.utah.edu/). My research interests are broadly in the areas of Hardware Security and at the intersection of Computer Architecture and Post Quantum Security. Particularly, my work focuses on designing *efficient memory integrity verification* and *hardware acceleration of lattice-based cryptography*, ranging from Key Establishments to Secure Machine Learning as a Service using Homomorphic Encryption. Learn more about me and my work by going through my Publications/CV pages.
+**Actively looking for jobs**
+I am a fifth year PhD student at The University of Utah, working under the supervision of [Prof. Rajeev Balasubramonian](https://www.cs.utah.edu/~rajeev/) in the [Utah Arch Research Group](https://arch.cs.utah.edu/). My research interests are broadly in the areas of Hardware Security and at the intersection of Computer Architecture and Post Quantum Security. Particularly, my work focuses on designing *efficient memory integrity verification* and *hardware acceleration of lattice-based cryptography*, ranging from Key Establishments to Secure Machine Learning as a Service using Homomorphic Encryption. Learn more about me and my work by going through my Publications/CV pages.
 
 Recent News
 ======
