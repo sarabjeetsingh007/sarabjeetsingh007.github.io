@@ -9,10 +9,12 @@ redirect_from:
 ---
 
 **Actively looking for jobs**
-I am a fifth year PhD student at The University of Utah, working under the supervision of [Prof. Rajeev Balasubramonian](https://www.cs.utah.edu/~rajeev/) in the [Utah Arch Research Group](https://arch.cs.utah.edu/). My research interests are broadly in the areas of Hardware Security and at the intersection of Computer Architecture and Post Quantum Security. Particularly, my work focuses on designing *efficient memory integrity verification* and *hardware acceleration of lattice-based cryptography*, ranging from Key Establishments to Secure Machine Learning as a Service using Homomorphic Encryption. Learn more about me and my work by going through my Publications/CV pages.
+
+I am a fifth year PhD student at The University of Utah, working under the supervision of [Prof. Rajeev Balasubramonian](https://www.cs.utah.edu/~rajeev/) in the [Utah Arch Research Group](https://arch.cs.utah.edu/). My research interests are broadly in the areas of Hardware Security and at the intersection of Computer Architecture and Modern Cryptography. Particularly, my work focuses on designing *efficient memory integrity verification*, *hardware/software acceleration of Modern Cryptography* ranging from Key Establishments to Secure Machine Learning as a Service using Homomorphic Encryption to Zero Knowledge Proofs. Learn more about me and my work by going through my Publications/CV pages.
 
 Recent News
 ======
+- **Oct 2023** "[Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference](https://sarabjeetsingh007.github.io/files/sp24.pdf)" accepted, and yet to appear, at IEEE IEEE Symposium on Security and Privacy 2024.
 - **Feb 2023** "[XCRYPT: Accelerating Lattice Based Cryptography with Memristor Crossbar Arrays](https://sarabjeetsingh007.github.io/files/micro23.pdf)" published in IEEE Micro.
 - **Nov 2022** "[HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy](https://sarabjeetsingh007.github.io/files/taco22.pdf)" published in ACM Transactions on Architecture and Code Optimization.
 - **May 2022** Joined NVIDIA Research as Co-op. Project: Homomorphic Encryption at Modern GPU Datacenter Scale. Manager: Steve Keckler
