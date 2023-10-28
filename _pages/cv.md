@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Last updated: 03-01-2023](https://sarabjeetsingh007.github.io/files/CV-03-01-2023.pdf)
+[Last updated: 10-28-2023](https://sarabjeetsingh007.github.io/files/CV-10-28-2023.pdf)
