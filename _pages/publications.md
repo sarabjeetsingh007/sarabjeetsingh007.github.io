@@ -58,8 +58,10 @@ Sneha N. Ved, <span style="text-decoration:underline">Sarabjeet Singh</span>, Jo
 
 Industry Projects (Duality Technologies, 2024–2026)
 ======
-- **[TREBUCHET](https://www.gomactech.net/assets/pdf/2025_GOMACTech_Program.pdf#page=85): FHE Accelerator Architecture ([DARPA DPRIVE](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments))**  
-Designed and implemented components of a custom architecture for accelerating fully homomorphic encryption: microcode generators for FHE kernels, kernel-to-hardware mapping, dataflow optimization, and a KeySwitching dataflow that improves data reuse. Paper: "Accelerating FHE to Enable Privacy-Preserving Deep Learning," [GOMACTech 2025](https://www.gomactech.net/assets/pdf/2025_GOMACTech_Program.pdf#page=85), the U.S. Government Microcircuit Applications & Critical Technology Conference.
+- **[TREBUCHET](https://www.gomactech.net/assets/pdf/2025_GOMACTech_Program.pdf#page=85): 12 nm FHE Accelerator ASIC ([DARPA DPRIVE](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments))**  
+A $15M DARPA effort (Apr 2021 – Nov 2025, completed) to build a custom 12 nm ASIC for homomorphic machine and deep learning, carried to a fully verified RTL implementation and top-level floorplan (176 mm², 1 GHz timing closure). The design includes a custom ISA, a microcode scheduler, and a node-array architecture, and was validated on encrypted CNN training and inference and AES transciphering.  
+My work: microcode generators for FHE kernels, kernel-to-hardware mapping, dataflow optimization, and a KeySwitching dataflow that improves data reuse.  
+Paper: "Accelerating FHE to Enable Privacy-Preserving Deep Learning," [GOMACTech 2025](https://www.gomactech.net/assets/pdf/2025_GOMACTech_Program.pdf#page=85), the U.S. Government Microcircuit Applications & Critical Technology Conference.
 - **[SHARE: Sharing Data for Rapid Collaboration on Encrypted Data](https://arpa-h.gov/explore-funding/awards/1821) (ARPA-H)**  
 Technical Lead. Privacy-preserving healthcare analytics across distributed patient-data owners, combining FHE, federated learning, differential privacy, and post-quantum cryptography. With ICF and Dana-Farber Cancer Institute.
 
