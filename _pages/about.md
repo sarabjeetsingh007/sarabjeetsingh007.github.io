@@ -18,14 +18,14 @@ I received my Ph.D. in Computer Science from the University of Utah in 2024, adv
 
 Service
 ======
-- **Technical Program Committee:** IEEE/ACM ISCA 2027, IEEE/ACM MICRO 2026, IEEE/ACM ISCA 2026, IEEE HPCA 2026, IEEE ISPASS 2026, IEEE Micro 2022
+- **Technical Program Committee:** [IEEE/ACM ISCA 2027](https://iscaconf.org/isca2027/), [IEEE/ACM MICRO 2026](https://microarch.org/micro59/committees/pc.php), [IEEE/ACM ISCA 2026](https://iscaconf.org/isca2026/committees/pc.php), [IEEE HPCA 2026](https://2026.hpca-conf.org/committee/hpca-2026-program-committee), [IEEE ISPASS 2026](https://ispass.org/ispass2026/committee.php), [IEEE Micro 2022](https://www.computer.org/csdl/magazine/mi)
 - **Founding Member and Steering Committee Member,** [Computer Architecture Student Association (CASA)](https://www.sigarch.org/casa/), 2020–2022
 - **Teaching Mentor,** University of Utah: CS/ECE 6810 Computer Architecture; CS 3810 Computer Organization
 
 News
 ======
 - **Sep 2026** Joined [Samsung Semiconductor](https://semiconductor.samsung.com/) in San Jose as a Senior Engineer, Performance Architecture.
-- **2026** Served on the Technical Program Committees of IEEE HPCA 2026, IEEE ISPASS 2026, IEEE/ACM ISCA 2026 and IEEE/ACM MICRO 2026; joined the IEEE/ACM ISCA 2027 Technical Program Committee.
+- **2026** Served on the Technical Program Committees of [IEEE HPCA 2026](https://2026.hpca-conf.org/committee/hpca-2026-program-committee), [IEEE ISPASS 2026](https://ispass.org/ispass2026/committee.php), [IEEE/ACM ISCA 2026](https://iscaconf.org/isca2026/committees/pc.php) and [IEEE/ACM MICRO 2026](https://microarch.org/micro59/committees/pc.php); joined the [IEEE/ACM ISCA 2027](https://iscaconf.org/isca2027/) Technical Program Committee.
 - **Mar 2025** Our paper "Accelerating FHE to Enable Privacy-Preserving Deep Learning" (Duality Technologies, USC ISI and NYU) appeared at [GOMACTech 2025](https://www.gomactech.net/assets/pdf/2025_GOMACTech_Program.pdf#page=85), the U.S. Government Microcircuit Applications & Critical Technology Conference.
 - **Jul 2024** Joined [Duality Technologies](https://dualitytech.com/) as a Scientist, working on TREBUCHET, a 12 nm FHE accelerator ASIC under [DARPA DPRIVE](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments).
 - **Jun 2024** Received my Ph.D. in Computer Science from the University of Utah.
