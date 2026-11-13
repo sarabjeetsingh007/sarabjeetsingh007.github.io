@@ -18,7 +18,7 @@ author_profile: true
 Color code: <span style="color:orange">**Orange**</span>: journal, <span style="color:green">**Green**</span>: conference, <span style="color:purple">**Purple**</span>: workshop.
 - **Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Sumanth Gudaparthi, Xiong Fan, Rajeev Balasubramonian  
-(accepted, yet to appear at) <span style="color:green">**IEEE Symposium on Security and Privacy 2024**</span>    
+<span style="color:green">**IEEE Symposium on Security and Privacy (S&P) 2024**</span>    
 \[[Full Text](https://sarabjeetsingh007.github.io/files/sp24.pdf)\]  
 - **XCRYPT: Accelerating Lattice Based Cryptography with Memristor Crossbar Arrays**    
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan, Ananth Krishna, Lia Jin, Anirban Nag, 
@@ -27,7 +27,7 @@ Mahdi Bojnordi, Rajeev Balasubramonian, Elaine Shi
 \[[Full Text](https://sarabjeetsingh007.github.io/files/micro23.pdf)\]  
 - **HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy**    
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Neelam Surana, Kailash Prasad, Pranjali Jain, Joycee Mekie, Manu Awasthi   
-<span style="color:orange">**ACM TACO 2022**</span>  
+<span style="color:orange">**ACM TACO 2023**</span>  
 \[[Full Text](https://sarabjeetsingh007.github.io/files/taco22.pdf)\]  
 - **EPIC: Efficient Packing for Inference using Cheetah**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Rajeev Balasubramonian  
@@ -52,20 +52,24 @@ Sneha N. Ved, <span style="text-decoration:underline">Sarabjeet Singh</span>, Jo
 \[[Full Text](https://sarabjeetsingh007.github.io/files/jetc19.pdf)\], \[[Code](https://github.com/sarabjeetsingh007/PANE)\]  
 <span style="color:red">**PANE is open-source, available here!**</span>
 
-Current/Past Projects
+Industry Projects (Duality Technologies, 2024–2026)
+======
+- **TREBUCHET: FHE Accelerator Architecture (DARPA DPRIVE)**  
+Designed and implemented components of a custom architecture for accelerating fully homomorphic encryption: microcode generators for FHE kernels, kernel-to-hardware mapping, dataflow optimization, and a KeySwitching dataflow that improves data reuse.
+- **SQUEEZES: Privacy-Preserving Healthcare Collaboration Platform (ARPA-H)**  
+Technical Lead. Privacy-preserving healthcare analytics across distributed patient-data owners, combining FHE, federated learning, differential privacy, and post-quantum cryptography. With ICF and Dana-Farber Cancer Institute.
+
+Ph.D. Research Projects (University of Utah, 2019–2024)
 ======
 - **Efficient Integrity Verification using Custom DIMM**  
-Reducing the cost of integrity verification in trusted environments with near-memory support.  
-Jan'21 - Present
+Reducing the cost of integrity verification in trusted environments with near-memory support.
 - **ZPU: Zero-Knowledge Proof Processing Units**  
-Novel high throughput Processing units for MSM/NTT kernels to maximize throughput in ZKP.   
-Aug'23 - Present 
+Novel high throughput Processing units for MSM/NTT kernels to maximize throughput in ZKP.
 - **Reducing expensive Key movement in FHE using Processing in Memory**  
-Partitioning FHE kernels on CPU-UPMEM model.   
-May'23 - Present 
-- **Secure AI using Samsung's AxDIMM (One of the finalist for Samsung AxDIMM contest)**  
-Finalists for Samsung AxDIMM contest.  
-Oct'21 - Jun'22 
+Partitioning FHE kernels on CPU-UPMEM model.
+- **Secure AI using Samsung's AxDIMM**  
+Finalist, Samsung Open Innovation Contest for AxDIMM Technology.  
+Oct'21 - Jun'22
 - **Efficient Metadata for Memory Protection**    
 Aug'20 - Mar'21
 - **AMBOP: Adaptive Multiple Best Offset Prefetcher**    

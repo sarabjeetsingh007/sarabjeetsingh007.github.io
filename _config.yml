@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Sarabjeet Singh"
 title_separator          : "-"
 name                     : &name "Sarabjeet Singh"
-description              : &description "PhD Student at The University of Utah"
+description              : &description "Senior Engineer, Performance Architecture, Samsung Semiconductor"
 url                      : https://sarabjeetsingh007.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "sarabjeetsingh007.github.io"
@@ -81,9 +81,9 @@ analytics:
 # Site Author
 author:
   name             : "Sarabjeet Singh"
-  avatar           : "profile.png"
-  bio              : "PhD Student at The University of Utah"
-  location         : "Salt Lake City, Utah"
+  avatar           : "profile.jpg"
+  bio              : "Sr. Engineer, Performance Architecture, Samsung Semiconductor"
+  location         : "San Jose, California"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.co.in/citations?user=yymAYRoAAAAJ&hl=en"

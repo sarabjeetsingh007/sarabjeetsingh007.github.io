@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Last updated: 10-28-2023](https://sarabjeetsingh007.github.io/files/CV-10-28-2023.pdf)
+[Download my CV (PDF)](https://sarabjeetsingh007.github.io/files/Sarabjeet_Singh_CV.pdf). Last updated: November 2026.
