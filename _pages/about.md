@@ -12,22 +12,21 @@ I am a Senior Engineer in Performance Architecture at [Samsung Semiconductor](ht
 
 My work spans computer architecture, memory systems, and hardware/software co-design, applied to AI inference and privacy-preserving computing.
 
-Before Samsung, I was a Scientist at [Duality Technologies](https://dualitytech.com/) (2024–2026). There I designed and implemented components of TREBUCHET, a custom architecture for accelerating fully homomorphic encryption (FHE) under DARPA's DPRIVE program, and I was Technical Lead for ARPA-H SQUEEZES, a privacy-preserving platform for healthcare collaboration built with ICF and Dana-Farber Cancer Institute.
+Before Samsung, I was a Scientist at [Duality Technologies](https://dualitytech.com/) (2024–2026). There I designed and implemented components of [TREBUCHET](https://www.gomactech.net/2024/assets/pdf/GOMAC_2024_COV_TXT.pdf#page=70), a custom architecture for accelerating fully homomorphic encryption (FHE) under DARPA's [DPRIVE](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments) program, and I was Technical Lead for [ARPA-H SHARE](https://arpa-h.gov/explore-funding/awards/1821) (Sharing Data for Rapid Collaboration on Encrypted Data), a privacy-preserving platform for healthcare collaboration built with ICF and Dana-Farber Cancer Institute.
 
 I received my Ph.D. in Computer Science from the University of Utah in 2024, advised by [Prof. Rajeev Balasubramonian](https://www.cs.utah.edu/~rajeev/) in the [Utah Arch Research Group](https://arch.cs.utah.edu/). My thesis was on accelerating modern cryptography, with a focus on data movement. During my Ph.D. I was a research co-op at NVIDIA Research (2022) and AMD Research (2020). I received my B.Tech. from IIT Gandhinagar in 2017.
 
 Service
 ======
-- **Program Committee:** IEEE/ACM MICRO 2026, IEEE/ACM ISCA 2026, IEEE HPCA 2026, IEEE ISPASS 2026
-- **Reviewer:** IEEE/ACM ISCA 2027, IEEE Micro (2022)
+- **Technical Program Committee:** IEEE/ACM ISCA 2027, IEEE/ACM MICRO 2026, IEEE/ACM ISCA 2026, IEEE HPCA 2026, IEEE ISPASS 2026, IEEE Micro 2022
 - **Founding Member and Steering Committee Member,** [Computer Architecture Student Association (CASA)](https://www.sigarch.org/casa/), 2020–2022
 - **Teaching Mentor,** University of Utah: CS/ECE 6810 Computer Architecture; CS 3810 Computer Organization
 
 News
 ======
 - **Sep 2026** Joined [Samsung Semiconductor](https://semiconductor.samsung.com/) in San Jose as a Senior Engineer, Performance Architecture.
-- **2026** Served on the Program Committees of IEEE HPCA 2026, IEEE ISPASS 2026, IEEE/ACM ISCA 2026 and IEEE/ACM MICRO 2026.
-- **Jul 2024** Joined [Duality Technologies](https://dualitytech.com/) as a Scientist, working on FHE acceleration under DARPA DPRIVE.
+- **2026** Served on the Technical Program Committees of IEEE HPCA 2026, IEEE ISPASS 2026, IEEE/ACM ISCA 2026 and IEEE/ACM MICRO 2026; joined the IEEE/ACM ISCA 2027 Technical Program Committee.
+- **Jul 2024** Joined [Duality Technologies](https://dualitytech.com/) as a Scientist, working on FHE acceleration under [DARPA DPRIVE](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments).
 - **Jun 2024** Received my Ph.D. in Computer Science from the University of Utah.
 - **May 2024** "[Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference](https://sarabjeetsingh007.github.io/files/sp24.pdf)" appeared at the IEEE Symposium on Security and Privacy (S&P) 2024.
 - **Mar 2023** "[HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy](https://sarabjeetsingh007.github.io/files/taco22.pdf)" published in ACM Transactions on Architecture and Code Optimization.

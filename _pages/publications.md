@@ -19,16 +19,16 @@ Color code: <span style="color:orange">**Orange**</span>: journal, <span style="
 - **Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Sumanth Gudaparthi, Xiong Fan, Rajeev Balasubramonian  
 <span style="color:green">**IEEE Symposium on Security and Privacy (S&P) 2024**</span>    
-\[[Full Text](https://sarabjeetsingh007.github.io/files/sp24.pdf)\]  
+\[[Full Text](https://sarabjeetsingh007.github.io/files/sp24.pdf)\], \[[DOI](https://doi.org/10.1109/SP54263.2024.00107)\]  
 - **XCRYPT: Accelerating Lattice Based Cryptography with Memristor Crossbar Arrays**    
-<span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan, Ananth Krishna, Lia Jin, Anirban Nag, 
-Mahdi Bojnordi, Rajeev Balasubramonian, Elaine Shi  
+<span style="text-decoration:underline">Sarabjeet Singh</span>, Xiong Fan, Ananth Krishna Prasad, Lin Jia, Anirban Nag, 
+Rajeev Balasubramonian, Mahdi Nazm Bojnordi, Elaine Shi  
 <span style="color:orange">**IEEE Micro 2023**</span>  
-\[[Full Text](https://sarabjeetsingh007.github.io/files/micro23.pdf)\]  
+\[[Full Text](https://sarabjeetsingh007.github.io/files/micro23.pdf)\], \[[DOI](https://doi.org/10.1109/MM.2023.3248080)\]  
 - **HyGain: High Performance, Energy-Efficient Hybrid Gain Cell based Cache Hierarchy**    
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Neelam Surana, Kailash Prasad, Pranjali Jain, Joycee Mekie, Manu Awasthi   
 <span style="color:orange">**ACM TACO 2023**</span>  
-\[[Full Text](https://sarabjeetsingh007.github.io/files/taco22.pdf)\]  
+\[[Full Text](https://sarabjeetsingh007.github.io/files/taco22.pdf)\], \[[DOI](https://doi.org/10.1145/3572839)\]  
 - **EPIC: Efficient Packing for Inference using Cheetah**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Rajeev Balasubramonian  
 <span style="color:purple">**CogArch 2022**</span>    
@@ -36,27 +36,27 @@ Mahdi Bojnordi, Rajeev Balasubramonian, Elaine Shi
 - **CANDLES: Channel-Aware Novel Dataflow-Microarchitecture Co-Design for Low Energy Sparse Neural Network Acceleration**  
 Sumanth Gudaparthi, <span style="text-decoration:underline">Sarabjeet Singh</span>, Surya Narayanan, Rajeev Balasubramonian, Visvesh Sathe  
 <span style="color:green">**IEEE HPCA 2022**</span>    
-\[[Full Text](https://sarabjeetsingh007.github.io/files/hpca22.pdf)\]  
+\[[Full Text](https://sarabjeetsingh007.github.io/files/hpca22.pdf)\], \[[DOI](https://doi.org/10.1109/HPCA53966.2022.00069)\]  
 - **Efficacy of Statistical Sampling on Contemporary Workloads: The Case of SPEC CPU2017**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Manu Awasthi  
 <span style="color:green">**IEEE IISWC 2019**</span>   
-\[[Full Text](https://sarabjeetsingh007.github.io/files/iiswc19.pdf)\]  
+\[[Full Text](https://sarabjeetsingh007.github.io/files/iiswc19.pdf)\], \[[DOI](https://doi.org/10.1109/IISWC47752.2019.9042114)\]  
 <span style="color:red">**Traces of Simulation Points available, contact me!**</span>
 - **Memory Centric Characterization and Analysis of SPEC CPU2017 Suite**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Manu Awasthi  
 <span style="color:green">**ACM/SPEC ICPE 2019**</span>   
-\[[Full Text](https://sarabjeetsingh007.github.io/files/icpe19.pdf)\]
+\[[Full Text](https://sarabjeetsingh007.github.io/files/icpe19.pdf)\], \[[DOI](https://doi.org/10.1145/3297663.3310311)\]
 - **PANE: Pluggable Asynchronous Network-on-Chip Simulator**  
 Sneha N. Ved, <span style="text-decoration:underline">Sarabjeet Singh</span>, Joycee Mekie  
 <span style="color:orange">**ACM JETC 2019**</span>   
-\[[Full Text](https://sarabjeetsingh007.github.io/files/jetc19.pdf)\], \[[Code](https://github.com/sarabjeetsingh007/PANE)\]  
+\[[Full Text](https://sarabjeetsingh007.github.io/files/jetc19.pdf)\], \[[DOI](https://doi.org/10.1145/3241051)\], \[[Code](https://github.com/sarabjeetsingh007/PANE)\]  
 <span style="color:red">**PANE is open-source, available here!**</span>
 
 Industry Projects (Duality Technologies, 2024–2026)
 ======
-- **TREBUCHET: FHE Accelerator Architecture (DARPA DPRIVE)**  
-Designed and implemented components of a custom architecture for accelerating fully homomorphic encryption: microcode generators for FHE kernels, kernel-to-hardware mapping, dataflow optimization, and a KeySwitching dataflow that improves data reuse.
-- **SQUEEZES: Privacy-Preserving Healthcare Collaboration Platform (ARPA-H)**  
+- **[TREBUCHET](https://www.gomactech.net/2024/assets/pdf/GOMAC_2024_COV_TXT.pdf#page=70): FHE Accelerator Architecture ([DARPA DPRIVE](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments))**  
+Designed and implemented components of a custom architecture for accelerating fully homomorphic encryption: microcode generators for FHE kernels, kernel-to-hardware mapping, dataflow optimization, and a KeySwitching dataflow that improves data reuse. TREBUCHET was presented at the U.S. government's [GOMACTech 2024](https://www.gomactech.net/2024/assets/pdf/GOMAC_2024_COV_TXT.pdf#page=70) conference (DPRIVE session).
+- **[SHARE: Sharing Data for Rapid Collaboration on Encrypted Data](https://arpa-h.gov/explore-funding/awards/1821) (ARPA-H)**  
 Technical Lead. Privacy-preserving healthcare analytics across distributed patient-data owners, combining FHE, federated learning, differential privacy, and post-quantum cryptography. With ICF and Dana-Farber Cancer Institute.
 
 Ph.D. Research Projects (University of Utah, 2019–2024)
