@@ -12,7 +12,7 @@ I am a Senior Engineer in Performance Architecture at [Samsung Semiconductor](ht
 
 My work spans computer architecture, memory systems, and hardware/software co-design, applied to AI inference and privacy-preserving computing.
 
-Before Samsung, I was a Scientist at [Duality Technologies](https://dualitytech.com/) (2024–2026). There I designed and implemented components of [TREBUCHET](https://www.gomactech.net/2024/assets/pdf/GOMAC_2024_COV_TXT.pdf#page=70), a custom architecture for accelerating fully homomorphic encryption (FHE) under DARPA's [DPRIVE](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments) program, and I was Technical Lead for [ARPA-H SHARE](https://arpa-h.gov/explore-funding/awards/1821) (Sharing Data for Rapid Collaboration on Encrypted Data), a privacy-preserving platform for healthcare collaboration built with ICF and Dana-Farber Cancer Institute.
+Before Samsung, I was a Scientist at [Duality Technologies](https://dualitytech.com/) (2024–2026). There I designed and implemented components of [TREBUCHET](https://www.gomactech.net/assets/pdf/2025_GOMACTech_Program.pdf#page=85), a custom architecture for accelerating fully homomorphic encryption (FHE) under DARPA's [DPRIVE](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments) program, and I was Technical Lead for [ARPA-H SHARE](https://arpa-h.gov/explore-funding/awards/1821) (Sharing Data for Rapid Collaboration on Encrypted Data), a privacy-preserving platform for healthcare collaboration built with ICF and Dana-Farber Cancer Institute.
 
 I received my Ph.D. in Computer Science from the University of Utah in 2024, advised by [Prof. Rajeev Balasubramonian](https://www.cs.utah.edu/~rajeev/) in the [Utah Arch Research Group](https://arch.cs.utah.edu/). My thesis was on accelerating modern cryptography, with a focus on data movement. During my Ph.D. I was a research co-op at NVIDIA Research (2022) and AMD Research (2020). I received my B.Tech. from IIT Gandhinagar in 2017.
 
@@ -26,6 +26,7 @@ News
 ======
 - **Sep 2026** Joined [Samsung Semiconductor](https://semiconductor.samsung.com/) in San Jose as a Senior Engineer, Performance Architecture.
 - **2026** Served on the Technical Program Committees of IEEE HPCA 2026, IEEE ISPASS 2026, IEEE/ACM ISCA 2026 and IEEE/ACM MICRO 2026; joined the IEEE/ACM ISCA 2027 Technical Program Committee.
+- **Mar 2025** Our paper "Accelerating FHE to Enable Privacy-Preserving Deep Learning" (Duality Technologies, USC ISI and NYU) appeared at [GOMACTech 2025](https://www.gomactech.net/assets/pdf/2025_GOMACTech_Program.pdf#page=85), the U.S. Government Microcircuit Applications & Critical Technology Conference.
 - **Jul 2024** Joined [Duality Technologies](https://dualitytech.com/) as a Scientist, working on FHE acceleration under [DARPA DPRIVE](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments).
 - **Jun 2024** Received my Ph.D. in Computer Science from the University of Utah.
 - **May 2024** "[Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference](https://sarabjeetsingh007.github.io/files/sp24.pdf)" appeared at the IEEE Symposium on Security and Privacy (S&P) 2024.

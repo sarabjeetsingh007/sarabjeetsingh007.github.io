@@ -15,7 +15,11 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-Color code: <span style="color:orange">**Orange**</span>: journal, <span style="color:green">**Green**</span>: conference, <span style="color:purple">**Purple**</span>: workshop.
+Color code: <span style="color:orange">**Orange**</span>: journal, <span style="color:green">**Green**</span>: conference, <span style="color:purple">**Purple**</span>: workshop, <span style="color:steelblue">**Blue**</span>: government conference.
+- **Accelerating FHE to Enable Privacy-Preserving Deep Learning**  
+Ahmad Al Badawi, Yuriy Polyakov, Ronen Cohen, Carlo Pascoe, <span style="text-decoration:underline">Sarabjeet Singh</span>, David Bruce Cousins, Kurt Rohloff, Matthew French, Benedict Reynwar, Troy Hicks, Kellie Canida, Clynn Mathew, Ajey Jacob, Kenneth M. Zick, Akshath Mahajan, Mukund Ramakrishnan, Rugved Mhatre, Austin Ebel, Brandon Reagen  
+<span style="color:steelblue">**GOMACTech 2025** (Government Microcircuit Applications & Critical Technology Conference)</span>  
+\[[Program, p. 83](https://www.gomactech.net/assets/pdf/2025_GOMACTech_Program.pdf#page=85)\]  
 - **Hyena: Balancing Packing, Reuse, and Rotations for Encrypted Inference**  
 <span style="text-decoration:underline">Sarabjeet Singh</span>, Shreyas Singh, Sumanth Gudaparthi, Xiong Fan, Rajeev Balasubramonian  
 <span style="color:green">**IEEE Symposium on Security and Privacy (S&P) 2024**</span>    
@@ -54,8 +58,8 @@ Sneha N. Ved, <span style="text-decoration:underline">Sarabjeet Singh</span>, Jo
 
 Industry Projects (Duality Technologies, 2024–2026)
 ======
-- **[TREBUCHET](https://www.gomactech.net/2024/assets/pdf/GOMAC_2024_COV_TXT.pdf#page=70): FHE Accelerator Architecture ([DARPA DPRIVE](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments))**  
-Designed and implemented components of a custom architecture for accelerating fully homomorphic encryption: microcode generators for FHE kernels, kernel-to-hardware mapping, dataflow optimization, and a KeySwitching dataflow that improves data reuse. TREBUCHET was presented at the U.S. government's [GOMACTech 2024](https://www.gomactech.net/2024/assets/pdf/GOMAC_2024_COV_TXT.pdf#page=70) conference (DPRIVE session).
+- **[TREBUCHET](https://www.gomactech.net/assets/pdf/2025_GOMACTech_Program.pdf#page=85): FHE Accelerator Architecture ([DARPA DPRIVE](https://www.darpa.mil/research/programs/data-protection-in-virtual-environments))**  
+Designed and implemented components of a custom architecture for accelerating fully homomorphic encryption: microcode generators for FHE kernels, kernel-to-hardware mapping, dataflow optimization, and a KeySwitching dataflow that improves data reuse. Paper: "Accelerating FHE to Enable Privacy-Preserving Deep Learning," [GOMACTech 2025](https://www.gomactech.net/assets/pdf/2025_GOMACTech_Program.pdf#page=85), the U.S. Government Microcircuit Applications & Critical Technology Conference.
 - **[SHARE: Sharing Data for Rapid Collaboration on Encrypted Data](https://arpa-h.gov/explore-funding/awards/1821) (ARPA-H)**  
 Technical Lead. Privacy-preserving healthcare analytics across distributed patient-data owners, combining FHE, federated learning, differential privacy, and post-quantum cryptography. With ICF and Dana-Farber Cancer Institute.
 
