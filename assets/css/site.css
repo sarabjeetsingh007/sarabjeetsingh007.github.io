@@ -11,17 +11,19 @@
   font-weight: 100 900; font-style: italic; font-display: swap;
 }
 
+/* Light: warm ivory page with white cards, so the navy accent reads as the one cool color.
+   Dark: deep navy-slate rather than black, matching the accent. */
 :root {
-  --bg: #ffffff;
-  --surface: #f5f7fa;
+  --bg: #f8f6f1;
+  --surface: #ffffff;
   --text: #1b2230;
-  --muted: #586374;
-  --faint: #8792a2;
-  --rule: #e3e7ed;
+  --muted: #555e6d;
+  --faint: #7a8494;
+  --rule: #e4dfd4;
   --accent: #1e3a5f;
   --link: #1c5bb8;
   --link-hover: #0f3f86;
-  --chip: #edf1f7;
+  --chip: #e7ecf3;
   --chip-text: #29446a;
   --conf: #17794b;
   --journal: #a85509;
@@ -33,16 +35,16 @@
 }
 @media (prefers-color-scheme: dark) {
   :root {
-    --bg: #0f1318;
-    --surface: #161c23;
+    --bg: #0f1620;
+    --surface: #16202c;
     --text: #e2e6ec;
     --muted: #a3adba;
-    --faint: #7c8694;
-    --rule: #252d37;
+    --faint: #7f8a99;
+    --rule: #243142;
     --accent: #d3e0f2;
     --link: #82b3f4;
     --link-hover: #b1cff8;
-    --chip: #1b2531;
+    --chip: #1b2837;
     --chip-text: #c8d7ec;
     --conf: #5cc98f;
     --journal: #f0a35a;
@@ -96,7 +98,7 @@ h1 { margin: 0; font-size: 2.35rem; line-height: 1.15; font-weight: 700; letter-
 .links a {
   display: inline-flex; align-items: center; gap: .4rem;
   font-size: .85rem; font-weight: 500; color: var(--text);
-  padding: .32rem .7rem; border: 1px solid var(--rule); border-radius: 999px; background: var(--bg);
+  padding: .32rem .7rem; border: 1px solid var(--rule); border-radius: 999px; background: var(--surface);
 }
 .links a:hover { border-color: var(--link); color: var(--link); text-decoration: none; }
 .icon { width: 15px; height: 15px; flex: none; fill: currentColor; }
@@ -154,7 +156,7 @@ details.more:not([open]) > summary .open-show { display: none; }
 .pub .where { margin: .1rem 0 0; color: var(--muted); font-size: .9rem; font-style: italic; }
 .pub .note { margin: .25rem 0 0; font-size: .88rem; color: var(--muted); }
 .actions { display: flex; flex-wrap: wrap; gap: .35rem; margin-top: .5rem; }
-.actions a { font-size: .76rem; font-weight: 600; letter-spacing: .02em; color: var(--muted); border: 1px solid var(--rule); border-radius: 5px; padding: .12rem .5rem; }
+.actions a { font-size: .76rem; font-weight: 600; letter-spacing: .02em; color: var(--muted); border: 1px solid var(--rule); border-radius: 5px; padding: .12rem .5rem; background: var(--surface); }
 .actions a:hover { color: var(--link); border-color: var(--link); text-decoration: none; }
 .legend { display: flex; flex-wrap: wrap; align-items: center; gap: .45rem .6rem; margin: 0 0 1.1rem; font-size: .85rem; color: var(--muted); }
 .legend .badge { margin-right: .3rem; }
@@ -169,7 +171,7 @@ details.more:not([open]) > summary .open-show { display: none; }
 .job ul { margin: .5rem 0 0; padding-left: 1.1rem; font-size: .95rem; }
 .job li { margin: .2rem 0; }
 .job li::marker { color: var(--faint); }
-.project { margin-top: .85rem; padding: .8rem .95rem; background: var(--surface); border-radius: 8px; font-size: .93rem; }
+.project { margin-top: .85rem; padding: .8rem .95rem; background: var(--surface); border: 1px solid var(--rule); border-radius: 8px; font-size: .93rem; }
 .project h4 { margin: 0 0 .35rem; font-size: .95rem; font-weight: 600; }
 .project p { margin: .3rem 0 0; }
 .project .facts { color: var(--muted); }
@@ -190,7 +192,7 @@ details.more:not([open]) > summary .open-show { display: none; }
 .chips a:hover { color: var(--link); text-decoration: none; box-shadow: inset 0 0 0 1px var(--link); }
 
 /* Contact + footer */
-.contact-card { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem; padding: 1.25rem 1.4rem; background: var(--surface); border-radius: 10px; }
+.contact-card { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: 1rem; padding: 1.25rem 1.4rem; background: var(--surface); border: 1px solid var(--rule); border-radius: 10px; }
 .contact-card p { margin: 0; }
 footer { margin-top: 3rem; padding: 1.5rem 0 2.5rem; border-top: 1px solid var(--rule); color: var(--faint); font-size: .85rem; }
 footer .wrap { display: flex; flex-wrap: wrap; justify-content: space-between; gap: .5rem; }
